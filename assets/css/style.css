@@ -1,0 +1,21 @@
+body{
+    margin: 50px;
+    padding: 50px 100px;
+    border: 1px solid black;
+    background-color:powderblue;
+}
+.contenido_textual{
+    text-align: center;
+}
+#seg_parrafo{
+    color: red;
+}   
+.lorem_ipsum{
+    text-align: left;
+}
+img{
+    width: 100%;
+}
+footer{
+    text-align: center;
+}
